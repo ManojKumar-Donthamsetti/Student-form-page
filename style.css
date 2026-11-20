@@ -1,0 +1,11 @@
+body { background: #f4f8fb; min-height: 100vh; display: flex; flex-direction: column; }
+main { flex: 1; }
+.navbar-portal { background: #c3dcea; }
+.navbar-portal .navbar-brand { font-weight: 500; }
+.navbar-portal .nav-link { color: #5a6a75; }
+.card-portal { background: #dfeaf2; border: 1px solid #c9d9e4; }
+.card-portal .card-header { background: #c3dcea; text-align: center; font-size: 1.6rem; }
+.banner { background: linear-gradient(#2a7de1, #1a6fd4); color: #fff; text-align: center; padding: .9rem; border-radius: .4rem; font-size: 1.5rem; }
+.footer-portal { background: #e8f0f6; border-top: 1px solid #d5e2eb; text-align: center; padding: .7rem; font-size: .9rem; }
+.table-portal thead th { background: #dfeaf2; }
+.pdf-icon { color: #d63031; font-size: 1.6rem; cursor: pointer; background: none; border: 0; }
